@@ -1,3 +1,4 @@
+// 使用Linked List實現Queue
 // 節點
 class Node {
     constructor(value){
